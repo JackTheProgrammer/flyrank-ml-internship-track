@@ -34,3 +34,4 @@ __pycache__/
 .venv/
 venv/
 .env
+/outputs/refresh_queue_sample.csv
